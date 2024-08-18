@@ -1,0 +1,330 @@
+{
+    "ipos": [
+      {
+        "id": 1,
+        "companyName": "ABC Technologies Ltd.",
+        "issueSize": "₹1000 Crores",
+        "priceRange": "₹300 - ₹350",
+        "minInvestQty": 40,
+        "minAmount": "₹14,000",
+        "issueDates": {
+          "start": "2024-08-20",
+          "end": "2024-08-24"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹360",
+        "listedGains": "2.86%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-08-20",
+          "biddingEndDate": "2024-08-24",
+          "allotmentFinalization": "2024-08-27",
+          "refundInitiation": "2024-08-28",
+          "dematTransfer": "2024-08-29",
+          "listingDate": "2024-08-30"
+        },
+        "aboutCompany": "ABC Technologies Ltd. is a leading tech company specializing in innovative solutions for the financial services industry. Founded in 2010, it has grown to become a key player in digital transformation, offering a wide range of software products and services. With a focus on AI and big data, ABC Technologies serves over 500 clients globally, providing them with advanced tools to optimize their operations. The company’s robust research and development wing continuously works on cutting-edge technologies, making it a trusted partner for businesses seeking to leverage technology for growth. Headquartered in Mumbai, India, ABC Technologies has a strong presence in Asia, Europe, and North America. The IPO proceeds will be used to expand its product line and enhance its R&D capabilities.",
+        "logoPath": "https://example.com/logos/abc-technologies-logo.png"
+      },
+      {
+        "id": 2,
+        "companyName": "XYZ Pharmaceuticals Ltd.",
+        "issueSize": "₹500 Crores",
+        "priceRange": "₹120 - ₹125",
+        "minInvestQty": 100,
+        "minAmount": "₹12,500",
+        "issueDates": {
+          "start": "2024-09-01",
+          "end": "2024-09-03"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹130",
+        "listedGains": "4%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-01",
+          "biddingEndDate": "2024-09-03",
+          "allotmentFinalization": "2024-09-05",
+          "refundInitiation": "2024-09-06",
+          "dematTransfer": "2024-09-07",
+          "listingDate": "2024-09-08"
+        },
+        "aboutCompany": "XYZ Pharmaceuticals Ltd. is a leading pharmaceutical company engaged in the development, manufacturing, and marketing of a wide range of generic medicines and healthcare products. Established in 1998, XYZ has been at the forefront of providing affordable and high-quality medicines to millions of patients worldwide. With a robust pipeline of drugs and a focus on innovation, XYZ Pharmaceuticals has a significant presence in both the domestic and international markets. The company's state-of-the-art manufacturing facilities are compliant with global standards, ensuring the highest levels of quality and safety. The funds raised from the IPO will be used to expand manufacturing capacity, invest in research and development, and strengthen the company's distribution network.",
+        "logoPath": "https://example.com/logos/xyz-pharmaceuticals-logo.png"
+      },
+      {
+        "id": 3,
+        "companyName": "LMN Retail Ltd.",
+        "issueSize": "₹750 Crores",
+        "priceRange": "₹150 - ₹160",
+        "minInvestQty": 90,
+        "minAmount": "₹14,400",
+        "issueDates": {
+          "start": "2024-08-25",
+          "end": "2024-08-28"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹165",
+        "listedGains": "3.12%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-08-25",
+          "biddingEndDate": "2024-08-28",
+          "allotmentFinalization": "2024-08-30",
+          "refundInitiation": "2024-08-31",
+          "dematTransfer": "2024-09-01",
+          "listingDate": "2024-09-02"
+        },
+        "aboutCompany": "LMN Retail Ltd. is one of India's fastest-growing retail chains, offering a wide range of consumer goods, from electronics to groceries. Established in 2005, LMN Retail has expanded rapidly, now operating over 1,000 stores across the country. Known for its competitive pricing and excellent customer service, the company has become a household name in urban and rural areas alike. LMN Retail's omnichannel approach ensures that customers can shop both online and offline, catering to the evolving needs of the modern consumer. The funds raised from the IPO will be used to further expand the company's retail footprint and enhance its supply chain infrastructure.",
+        "logoPath": "https://example.com/logos/lmn-retail-logo.png"
+      },
+      {
+        "id": 4,
+        "companyName": "PQR Energy Ltd.",
+        "issueSize": "₹1200 Crores",
+        "priceRange": "₹450 - ₹470",
+        "minInvestQty": 30,
+        "minAmount": "₹13,500",
+        "issueDates": {
+          "start": "2024-09-05",
+          "end": "2024-09-09"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹475",
+        "listedGains": "1.06%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-05",
+          "biddingEndDate": "2024-09-09",
+          "allotmentFinalization": "2024-09-12",
+          "refundInitiation": "2024-09-13",
+          "dematTransfer": "2024-09-14",
+          "listingDate": "2024-09-15"
+        },
+        "aboutCompany": "PQR Energy Ltd. is a major player in the renewable energy sector, focusing on solar and wind energy solutions. Founded in 2012, the company has established itself as a leader in sustainable energy, with projects spanning across India and several other countries. PQR Energy's commitment to reducing carbon footprints and promoting green energy has earned it numerous accolades. The company operates several large-scale solar and wind farms and is continuously expanding its capacity. The proceeds from the IPO will be used to fund new projects, enhance existing facilities, and invest in cutting-edge renewable technologies.",
+        "logoPath": "https://example.com/logos/pqr-energy-logo.png"
+      },
+      {
+        "id": 5,
+        "companyName": "STU Textiles Ltd.",
+        "issueSize": "₹300 Crores",
+        "priceRange": "₹90 - ₹95",
+        "minInvestQty": 150,
+        "minAmount": "₹14,250",
+        "issueDates": {
+          "start": "2024-08-22",
+          "end": "2024-08-25"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹98",
+        "listedGains": "3.16%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-08-22",
+          "biddingEndDate": "2024-08-25",
+          "allotmentFinalization": "2024-08-28",
+          "refundInitiation": "2024-08-29",
+          "dematTransfer": "2024-08-30",
+          "listingDate": "2024-09-01"
+        },
+        "aboutCompany": "STU Textiles Ltd. is a renowned manufacturer of high-quality textiles, specializing in fabrics and garments for both domestic and international markets. Established in 1980, the company has grown into one of the leading textile manufacturers in India, known for its innovation and quality. STU Textiles operates several state-of-the-art manufacturing facilities and has a strong distribution network across India and abroad. The company’s focus on sustainability and ethical practices has made it a preferred partner for global brands. The IPO funds will be used to expand production capacity, modernize facilities, and enter new markets.",
+        "logoPath": "https://example.com/logos/stu-textiles-logo.png"
+      },
+      {
+        "id": 6,
+        "companyName": "VWX Foods Ltd.",
+        "issueSize": "₹600 Crores",
+        "priceRange": "₹200 - ₹210",
+        "minInvestQty": 70,
+        "minAmount": "₹14,700",
+        "issueDates": {
+          "start": "2024-09-10",
+          "end": "2024-09-12"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹215",
+        "listedGains": "2.38%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-10",
+          "biddingEndDate": "2024-09-12",
+          "allotmentFinalization": "2024-09-15",
+          "refundInitiation": "2024-09-16",
+          "dematTransfer": "2024-09-17",
+          "listingDate": "2024-09-18"
+        },
+        "aboutCompany": "VWX Foods Ltd. is a leading food processing company specializing in ready-to-eat meals and packaged food products. Founded in 1995, the company has a strong presence in the Indian market and exports its products to over 20 countries. VWX Foods is known for its innovative and healthy food products, catering to the growing demand for convenience foods. The company operates several manufacturing plants equipped with advanced technology to ensure the highest standards of quality and safety. The proceeds from the IPO will be used to expand production capacity, introduce new products, and strengthen the company’s distribution network.",
+        "logoPath": "https://example.com/logos/vwx-foods-logo.png"
+      },
+      {
+        "id": 7,
+        "companyName": "YZA Financial Services Ltd.",
+        "issueSize": "₹900 Crores",
+        "priceRange": "₹350 - ₹360",
+        "minInvestQty": 35,
+        "minAmount": "₹12,600",
+        "issueDates": {
+          "start": "2024-09-15",
+          "end": "2024-09-19"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹365",
+        "listedGains": "1.39%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-15",
+          "biddingEndDate": "2024-09-19",
+          "allotmentFinalization": "2024-09-22",
+          "refundInitiation": "2024-09-23",
+          "dematTransfer": "2024-09-24",
+          "listingDate": "2024-09-25"
+        },
+        "aboutCompany": "YZA Financial Services Ltd. is a diversified financial services company offering a wide range of products including insurance, asset management, and lending solutions. Established in 2000, the company has grown rapidly, with a strong presence in both urban and rural markets across India. YZA Financial Services is known for its customer-centric approach and innovative financial products that cater to the needs of different segments of the population. The company’s extensive distribution network and strong digital capabilities have enabled it to reach a wide audience. The funds raised from the IPO will be used to expand the company’s product portfolio, enhance digital infrastructure, and strengthen its balance sheet.",
+        "logoPath": "https://example.com/logos/yza-financial-logo.png"
+      },
+      {
+        "id": 8,
+        "companyName": "BCD Infrastructure Ltd.",
+        "issueSize": "₹1500 Crores",
+        "priceRange": "₹600 - ₹620",
+        "minInvestQty": 25,
+        "minAmount": "₹15,500",
+        "issueDates": {
+          "start": "2024-09-20",
+          "end": "2024-09-24"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹625",
+        "listedGains": "0.81%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-20",
+          "biddingEndDate": "2024-09-24",
+          "allotmentFinalization": "2024-09-27",
+          "refundInitiation": "2024-09-28",
+          "dematTransfer": "2024-09-29",
+          "listingDate": "2024-09-30"
+        },
+        "aboutCompany": "BCD Infrastructure Ltd. is a leading construction and infrastructure development company in India, with a strong focus on urban development and smart city projects. Founded in 1985, BCD Infrastructure has played a pivotal role in the construction of some of the most iconic buildings and infrastructure projects across the country. The company’s expertise spans residential, commercial, and industrial construction, as well as transportation infrastructure such as roads, bridges, and airports. With a commitment to quality and sustainability, BCD Infrastructure is at the forefront of transforming urban landscapes. The IPO proceeds will be used to fund new projects, acquire advanced construction equipment, and strengthen the company’s financial position.",
+        "logoPath": "https://example.com/logos/bcd-infrastructure-logo.png"
+      },
+      {
+        "id": 9,
+        "companyName": "EFG Healthcare Ltd.",
+        "issueSize": "₹700 Crores",
+        "priceRange": "₹180 - ₹190",
+        "minInvestQty": 80,
+        "minAmount": "₹15,200",
+        "issueDates": {
+          "start": "2024-09-12",
+          "end": "2024-09-15"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹195",
+        "listedGains": "2.63%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-12",
+          "biddingEndDate": "2024-09-15",
+          "allotmentFinalization": "2024-09-18",
+          "refundInitiation": "2024-09-19",
+          "dematTransfer": "2024-09-20",
+          "listingDate": "2024-09-21"
+        },
+        "aboutCompany": "EFG Healthcare Ltd. is a leading healthcare company specializing in the development and manufacturing of medical devices and diagnostic solutions. Established in 2003, the company has become a key player in the healthcare industry, known for its innovative and high-quality products. EFG Healthcare's product portfolio includes a wide range of devices used in hospitals, clinics, and laboratories. The company is committed to improving healthcare outcomes by providing advanced and affordable medical technologies. The funds raised from the IPO will be used to expand manufacturing facilities, invest in research and development, and explore new markets.",
+        "logoPath": "https://example.com/logos/efg-healthcare-logo.png"
+      },
+      {
+        "id": 10,
+        "companyName": "GHI Media Ltd.",
+        "issueSize": "₹400 Crores",
+        "priceRange": "₹100 - ₹105",
+        "minInvestQty": 130,
+        "minAmount": "₹13,650",
+        "issueDates": {
+          "start": "2024-09-18",
+          "end": "2024-09-21"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹110",
+        "listedGains": "4.76%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-18",
+          "biddingEndDate": "2024-09-21",
+          "allotmentFinalization": "2024-09-24",
+          "refundInitiation": "2024-09-25",
+          "dematTransfer": "2024-09-26",
+          "listingDate": "2024-09-27"
+        },
+        "aboutCompany": "GHI Media Ltd. is a leading media and entertainment company in India, with a strong presence in television, film production, and digital content. Founded in 1990, GHI Media has produced some of the most popular TV shows and films in the country, earning a loyal audience across all age groups. The company has also ventured into digital media, with a growing portfolio of original web series and content available on major streaming platforms. GHI Media’s commitment to high-quality content and innovative storytelling has made it a leader in the industry. The IPO funds will be used to produce new content, expand digital offerings, and enhance the company’s production facilities.",
+        "logoPath": "https://example.com/logos/ghi-media-logo.png"
+      },
+      {
+        "id": 11,
+        "companyName": "JKL Electronics Ltd.",
+        "issueSize": "₹1100 Crores",
+        "priceRange": "₹380 - ₹400",
+        "minInvestQty": 30,
+        "minAmount": "₹12,000",
+        "issueDates": {
+          "start": "2024-09-22",
+          "end": "2024-09-26"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹405",
+        "listedGains": "1.25%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-22",
+          "biddingEndDate": "2024-09-26",
+          "allotmentFinalization": "2024-09-29",
+          "refundInitiation": "2024-09-30",
+          "dematTransfer": "2024-10-01",
+          "listingDate": "2024-10-02"
+        },
+        "aboutCompany": "JKL Electronics Ltd. is a leading consumer electronics company, known for its innovative and high-quality products ranging from smartphones to home appliances. Founded in 1998, the company has established itself as a trusted brand in India and abroad. JKL Electronics is committed to providing cutting-edge technology at affordable prices, making it a popular choice among consumers. The company operates several state-of-the-art manufacturing plants and has a robust distribution network across India and key international markets. The proceeds from the IPO will be used to launch new products, expand manufacturing capacity, and invest in research and development.",
+        "logoPath": "https://example.com/logos/jkl-electronics-logo.png"
+      },
+      {
+        "id": 12,
+        "companyName": "MNO Shipping Ltd.",
+        "issueSize": "₹800 Crores",
+        "priceRange": "₹250 - ₹260",
+        "minInvestQty": 50,
+        "minAmount": "₹13,000",
+        "issueDates": {
+          "start": "2024-09-28",
+          "end": "2024-10-03"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹265",
+        "listedGains": "1.92%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-28",
+          "biddingEndDate": "2024-10-03",
+          "allotmentFinalization": "2024-10-06",
+          "refundInitiation": "2024-10-07",
+          "dematTransfer": "2024-10-08",
+          "listingDate": "2024-10-09"
+        },
+        "aboutCompany": "MNO Shipping Ltd. is a prominent shipping and logistics company in India, offering a wide range of maritime services including cargo transportation, ship management, and port operations. Established in 1980, the company has a fleet of modern vessels and a strong presence in key shipping routes. MNO Shipping is known for its commitment to safety, efficiency, and sustainability in maritime operations. The company’s services cater to various industries including oil and gas, mining, and agriculture. The IPO proceeds will be used to expand the company’s fleet, invest in new technologies, and strengthen its global network.",
+        "logoPath": "https://example.com/logos/mno-shipping-logo.png"
+      },
+      {
+        "id": 13,
+        "companyName": "PQR Renewable Energy Ltd.",
+        "issueSize": "₹600 Crores",
+        "priceRange": "₹150 - ₹160",
+        "minInvestQty": 90,
+        "minAmount": "₹14,400",
+        "issueDates": {
+          "start": "2024-09-25",
+          "end": "2024-09-28"
+        },
+        "listedOn": "NSE, BSE",
+        "listedPrice": "₹165",
+        "listedGains": "3.13%",
+        "IPOtimeline": {
+          "biddingStartDate": "2024-09-25",
+          "biddingEndDate": "2024-09-28",
+          "allotmentFinalization": "2024-10-01",
+          "refundInitiation": "2024-10-02",
+          "dematTransfer": "2024-10-03",
+          "listingDate": "2024-10-04"
+        },
+        "aboutCompany": "PQR Renewable Energy Ltd. is a leading renewable energy company in India, focused on the development and operation of solar and wind power projects. Established in 2010, the company has rapidly expanded its portfolio, with a significant presence in key renewable energy markets across the country. PQR Renewable Energy is committed to driving India’s transition to clean energy, with a strong emphasis on sustainability and innovation. The company’s projects contribute to reducing carbon emissions and promoting energy security. The IPO funds will be used to develop new renewable energy projects, enhance existing facilities, and invest in advanced technologies.",
+        "logoPath": "https://example.com/logos/pqr-renewable-energy-logo.png"
+      }
+    ]
+  }
+  

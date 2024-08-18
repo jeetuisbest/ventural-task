@@ -1,0 +1,112 @@
+body {
+    font-family: 'Sora', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    display: flex;
+    margin-right: 20px;
+}
+
+tr:hover{
+    cursor: pointer ;
+}
+
+.td{
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+
+th, td {
+    padding: 12px 15px;
+}
+
+
+td span {
+  padding: 15px;
+}
+
+td h3{
+  display: none;
+}
+
+thead th {
+    background-color: #f2f2f2;
+    border-bottom: 2px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+
+
+/* --------------------------------------------------------------------------------------- */
+
+.ipo-details .head-section{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+
+/* Mobile view */
+@media (max-width: 768px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tr {
+        margin-bottom: 15px;
+        border-bottom: 2px solid #ddd;
+    }
+
+    td {
+        padding-left: 20%;
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .td img{
+        margin: -21px;
+    }
+
+    td h3{
+      display: block;
+    }
+
+    td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 45%;
+        padding-left: 15px;
+        font-weight: bold;
+        text-align: left;
+    }
+}
